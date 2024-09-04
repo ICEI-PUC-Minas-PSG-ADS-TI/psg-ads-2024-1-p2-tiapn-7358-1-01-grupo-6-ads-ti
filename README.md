@@ -4,7 +4,7 @@
 
 `Trabalho Interdisciplinar: Desenvolvimento de Aplicação Interativa`
 
-`3º semestre`
+`3º Semestre`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
