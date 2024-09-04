@@ -1,10 +1,10 @@
 # AULAS PARTICULARES
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Trabalho Interdisciplinar: Desenvolvimento de Aplicação Interativa`
 
-`SEMESTRE`
+`3º semestre`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
